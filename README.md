@@ -1,27 +1,22 @@
-# FUTURE_DS_01
-![Dashboard Preview]image.png
-# Social Media Campaign Performance Dashboard (Power BI)
+# E-Commerce Sales Performance Dashboard
+### Future Internships: Data Science Task 01
 
-This dashboard analyzes advertising performance across channels 
-(TV, Billboards, Google Ads, Social Media, Influencer, Affiliate Marketing).
+## 📊 Project Overview
+This project involves creating an interactive Business Intelligence dashboard to track and analyze the sales performance of a global retail store. The goal was to identify trends, measure profitability, and provide regional insights.
 
-## Objectives
-- Understand ad spend distribution
-- Compare spend vs sales performance
-- Identify high-efficiency channels (sales per rupee)
-- Recommend budget optimization strategies
+## 🛠️ Tech Stack & Skills
+- **Power BI:** Data Modeling, DAX (Data Analysis Expressions), and Visualization.
+- **Canva Pro:** Custom UI/UX Design (Glassmorphism theme).
+- **Data Analysis:** Trend forecasting, Profitability analysis, and Return tracking.
 
-## Key Insights
-- Affiliate Marketing delivers the highest efficiency
-- Influencer spending shows low ROI
-- TV and Billboards perform moderately but require budget control
-- Reallocating funds improves overall returns
+## 📈 Key Visuals
+- **KPI Cards:** Total Revenue, Profit, and Items Sold.
+- **Speedometer (Gauge):** Tracking Profit Margin % against a 15% target.
+- **Revenue Trend:** Monthly bar chart showing seasonal performance.
+- **Region Slicer:** Custom tile-style buttons for interactive filtering.
+- **Top Products:** Data-wrapped table showing the Top 5 best-sellers.
 
-## Tools Used
-Power BI | Canva | DAX | Data Visualization
-
-## Files
-- FUTURE_DS_02.pbix — Power BI dashboard
-- Advertising_Data.csv — dataset
-- FUTURE_DS_02_Dashboard.png — final dashboard screenshot
-- FUTURE_DS_02_Demo.mp4 — short walkthrough video
+## 💡 Top Business Insights
+1. **Profitability Gap:** While Sales are high, the 'Tables' sub-category is underperforming in profit.
+2. **Seasonality:** Revenue peaks in Q4, driven by year-end sales.
+3. **Region Performance:** The West region consistently shows the highest engagement and sales volume.
